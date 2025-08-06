@@ -1,5 +1,5 @@
 # Todo-App
-A localstaorage used to do app.
+A local storage used to do app.
 ## 📝 React Todo App
 
 A simple and clean Todo List app built using **React 19** and **Vite**, with support for:
@@ -39,5 +39,7 @@ A simple and clean Todo List app built using **React 19** and **Vite**, with sup
     npm run dev
 
 **App view:**
+
 ![alt text](image.png)
+
 ![alt text](image-1.png)

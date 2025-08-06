@@ -40,6 +40,6 @@ A simple and clean Todo List app built using **React 19** and **Vite**, with sup
 
 **App view:**
 
-![alt text](image.png)
+<img width="946" height="954" alt="Screenshot 2025-08-06 143658" src="https://github.com/user-attachments/assets/f7dc3320-bcbf-4636-8197-5bf82d8efd4e" />
 
-![alt text](image-1.png)
+<img width="909" height="989" alt="Screenshot 2025-08-06 143832" src="https://github.com/user-attachments/assets/d24354fd-b1f2-4548-8c9d-eceea4edc9ac" />
